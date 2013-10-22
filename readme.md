@@ -1,0 +1,9 @@
+-Twitterbot
+-==========
+-uses Darius Kazemi's bot template (https://github.com/dariusk/examplebot)
+-and the node-wordnik library (http://npmjs.org/package/wordnik)
+-
+-be sure to input twitter api info and wordnik info
+-
+-Results can be viewed at
+-https://twitter.com/LCC2700JLE
